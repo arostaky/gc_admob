@@ -1,0 +1,12 @@
+{
+  "name": "devkit-admob",
+  "version": "1.2",
+  "devkit": {
+    "clientPaths": {
+      "admob": "js"
+    },
+    "extensions": {
+      "android": "android"
+    }
+  }
+}
