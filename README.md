@@ -2,15 +2,9 @@
 
 Admob only supports Android build targets.
 
-## Usage
+## Installation
 
-Include it in the `manifest.json` file under the "addons" section for your game:
-
-~~~
-"addons": [
-	"Admob"
-],
-~~~
+Run devkit install https://github.com/jpdibacco/gc_admob from your devkit2 application directory.
 
 Under the Android section, you can configure the Admob plugin:
 
@@ -48,7 +42,7 @@ admob.hideAd();
 To test for successful integration, build your game:
 
 ~~~
-basil debug native-android --clean --open
+devkit debug native-android --clean --open
 ~~~
 
 Then watch logcat:
