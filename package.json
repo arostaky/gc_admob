@@ -1,9 +1,9 @@
 {
   "name": "devkit-admob",
-  "version": "1.2",
+  "version": "0.0.2",
   "devkit": {
     "clientPaths": {
-      "admob": "js"
+      "admob": "js/admob"
     },
     "extensions": {
       "android": "android"
