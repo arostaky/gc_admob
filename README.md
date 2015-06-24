@@ -4,7 +4,7 @@ Admob only supports Android build targets.
 
 ## Installation
 
-Run devkit install https://github.com/jpdibacco/gc_admob from your devkit2 application directory.
+Run devkit install https://github.com/jpdibacco/gc_admob#master from your devkit2 application directory.
 
 Under the Android section, you can configure the Admob plugin:
 
